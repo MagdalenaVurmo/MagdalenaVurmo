@@ -1,6 +1,6 @@
 # Hi, I'm Magdalena! 👋
 
-### Junior JavaScript Developer | React & TypeScript
+### Junior Fullstack Developer
 
 I'm a newly graduated Fullstack Developer, based in Sweden with a background
 in healthcare and a strong interest in building user-friendly web applications.
