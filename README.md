@@ -17,7 +17,7 @@ on my own.
 
 ## 👩‍💻 What I'm up to
 
-- 🎓 Graduated as a JavaScript Developer in 2026
+- 🎓 Graduated as a Fullstack Developer in 2026
 - 💻 Building projects with React, TypeScript and JavaScript
 - 🌱 Currently expanding my knowledge in IT, Linux and networking
 - 🔐 Interested in cybersecurity and secure development
