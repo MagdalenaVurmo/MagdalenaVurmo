@@ -2,7 +2,7 @@
 
 ### Junior JavaScript Developer | React & TypeScript
 
-I'm a newly graduated JavaScript Developer based in Sweden with a background
+I'm a newly graduated Fullstack Developer, based in Sweden with a background
 in healthcare and a strong interest in building user-friendly web applications.
 
 I enjoy frontend development, solving problems and learning new technologies.
